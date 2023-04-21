@@ -5,7 +5,11 @@ world
 <head>
 love
 <title>My Website</title>
+<<<<<<< HEAD
+soft
+=======
 dream
+>>>>>>> feature_branch
 </head>
 
 <body>
